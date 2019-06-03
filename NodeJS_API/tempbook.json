@@ -1,0 +1,36 @@
+[
+	{
+		"_id": {
+			"$oid": "58e6f8a4e1799d0f58a9e22d"
+		},
+		"primary_isbn": "9781480473805",
+		"title": "Taking Care of Mrs. Carroll",
+		"authors": [
+			{
+				"_id": {
+					"$oid": "58e6edd6afbe421347a11281"
+				},
+				"role": 1,
+				"firebrand_role": "author",
+				"firebrand_id": 15415368,
+				"display_name": "Paul Monette",
+				"first_name": "Paul",
+				"last_name": "Monette",
+				"slug": "paul-monette"
+			}
+		],
+		"bookkey": "15526982",
+		"isbns": [
+			"9781480473805"
+		],
+		"price": "14.99",
+		"amazon_rank": 320928,
+		"publisher": "Open Road Media",
+		"primary_bisacs": [
+			"Fiction"
+		],
+		"description": "<div><B>Now that Mrs. Carroll has died, the race for control of her elegant home has begun</B><BR /><BR />It is incredible how the death of a loved one can bring people together. Especially when greedy developers waste no time in attempting to steal the Cape Cod estate of the person in question.<BR /><BR />Before she could add a stipulation to her will requiring that the house not be bought up and razed for development, Mrs. Carroll tragically passed away. Now, it is up to her lover, Phidias, and her houseboy, David, to take care of the place once again. However, they cannot do it alone. They will need the help of people ranging from David&rsquo;s ex-boyfriend Rick to a kitschy former screen goddess.<BR /><BR />Written not long after Paul Monette moved to Los Angeles, his first novel is a madcap caper featuring a cast of characters willing to do anything to fulfill a dying woman&rsquo;s final wish&mdash;even if that means impersonating her while hiding her dead body from the nosy lawyers scouring her estate.<BR /><BR />This ebook features an illustrated biography of Paul Monette including rare images and never-before-seen documents from the Paul Monette papers of the UCLA Library Special Collections.</div>",
+		"active": true,
+		"image": "http://book-assets.openroadmedia.com/9781480473805-book-cover.jpg"
+	}
+]
